@@ -4,19 +4,19 @@
     "url": "https://code.levelup.cce.af.mil",
     "icon": "https://icons.duckduckgo.com/ip3/code.levelup.cce.af.mil.ico",
     "slug": "code",
-    "status": "down",
-    "uptime": "8.64%",
-    "uptimeDay": "8.64%",
-    "uptimeWeek": "8.64%",
-    "uptimeMonth": "8.64%",
-    "uptimeYear": "8.64%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.28%",
+    "uptimeDay": "1.28%",
+    "uptimeWeek": "1.28%",
+    "uptimeMonth": "1.28%",
+    "uptimeYear": "1.28%",
+    "time": 736,
+    "timeDay": 736,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://chat.levelup.cce.af.mil",
     "icon": "https://icons.duckduckgo.com/ip3/chat.levelup.cce.af.mil.ico",
     "slug": "chat",
-    "status": "down",
-    "uptime": "3.70%",
-    "uptimeDay": "3.70%",
-    "uptimeWeek": "3.70%",
-    "uptimeMonth": "3.70%",
-    "uptimeYear": "3.70%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.89%",
+    "uptimeDay": "0.89%",
+    "uptimeWeek": "0.89%",
+    "uptimeMonth": "0.89%",
+    "uptimeYear": "0.89%",
+    "time": 1273,
+    "timeDay": 1273,
+    "timeWeek": 1273,
+    "timeMonth": 1273,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 17
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://jira.levelup.cce.af.mil",
     "icon": "https://icons.duckduckgo.com/ip3/jira.levelup.cce.af.mil.ico",
     "slug": "jira",
-    "status": "down",
-    "uptime": "4.20%",
-    "uptimeDay": "4.20%",
-    "uptimeWeek": "4.20%",
-    "uptimeMonth": "4.20%",
-    "uptimeYear": "4.20%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
+    "time": 1724,
+    "timeDay": 1724,
+    "timeWeek": 1724,
+    "timeMonth": 1724,
+    "timeYear": 1724,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 17
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://confluence.levelup.cce.af.mil",
     "icon": "https://icons.duckduckgo.com/ip3/confluence.levelup.cce.af.mil.ico",
     "slug": "confluence",
-    "status": "down",
-    "uptime": "2.31%",
-    "uptimeDay": "2.31%",
-    "uptimeWeek": "2.31%",
-    "uptimeMonth": "2.31%",
-    "uptimeYear": "2.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
+    "time": 1211,
+    "timeDay": 1211,
+    "timeWeek": 1211,
+    "timeMonth": 1211,
+    "timeYear": 1211,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 17
     }
   }
 ]
