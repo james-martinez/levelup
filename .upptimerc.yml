@@ -5,12 +5,16 @@ repo: levelup # The name of this repository
 sites:
   - name: Code
     url: https://code.levelup.cce.af.mil
+    __dangerous__insecure: true
   - name: Chat
     url: https://chat.levelup.cce.af.mil
+    __dangerous__insecure: true
   - name: Jira
     url: https://jira.levelup.cce.af.mil
+    __dangerous__insecure: true
   - name: Confluence
     url: https://confluence.levelup.cce.af.mil
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
