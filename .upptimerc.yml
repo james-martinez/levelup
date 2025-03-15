@@ -16,7 +16,7 @@ sites:
     url: https://confluence.levelup.cce.af.mil
     __dangerous__insecure: true
   - name: Keycloak
-    url: https://keycloak.levelup.cce.af.mil/
+    url: https://keycloak.levelup.cce.af.mil
     __dangerous__insecure: true
 
 status-website:
