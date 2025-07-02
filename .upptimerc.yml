@@ -15,6 +15,9 @@ sites:
   - name: Confluence
     url: https://confluence.levelup.cce.af.mil
     __dangerous__insecure: true
+  - name: Keycloak
+    url: https://keycloak.levelup.cce.af.mil
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
