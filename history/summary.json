@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
-    "time": 1812,
-    "timeDay": 788,
-    "timeWeek": 1148,
-    "timeMonth": 1270,
-    "timeYear": 1812,
+    "time": 1809,
+    "timeDay": 454,
+    "timeWeek": 1086,
+    "timeMonth": 1269,
+    "timeYear": 1809,
     "dailyMinutesDown": {
       "2025-06-24": 17,
       "2025-06-04": 111,
@@ -41,8 +41,7 @@
       "2024-07-17": 16,
       "2024-07-16": 24,
       "2024-07-11": 80,
-      "2024-07-10": 44,
-      "2024-07-09": 16
+      "2024-07-10": 44
     }
   },
   {
@@ -56,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
-    "time": 954,
-    "timeDay": 599,
-    "timeWeek": 946,
-    "timeMonth": 684,
-    "timeYear": 954,
+    "time": 953,
+    "timeDay": 492,
+    "timeWeek": 886,
+    "timeMonth": 690,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2025-06-24": 31,
       "2025-05-17": 28,
@@ -70,8 +69,7 @@
       "2025-03-15": 86,
       "2024-12-20": 134,
       "2024-12-11": 21,
-      "2024-08-19": 17,
-      "2024-07-09": 17
+      "2024-08-19": 17
     }
   },
   {
@@ -80,16 +78,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.levelup.cce.af.mil.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "89.95%",
+    "uptime": "89.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.95%",
-    "time": 2472,
-    "timeDay": 802,
-    "timeWeek": 800,
-    "timeMonth": 825,
-    "timeYear": 2472,
+    "uptimeYear": "89.98%",
+    "time": 2467,
+    "timeDay": 533,
+    "timeWeek": 797,
+    "timeMonth": 827,
+    "timeYear": 2467,
     "dailyMinutesDown": {
       "2025-05-15": 1279,
       "2025-05-14": 1440,
@@ -135,8 +133,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-10-27": 24,
-      "2024-08-19": 82,
-      "2024-07-09": 17
+      "2024-08-19": 82
     }
   },
   {
@@ -146,15 +143,15 @@
     "slug": "confluence",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "94.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "98.70%",
-    "time": 2993,
-    "timeDay": 2198,
-    "timeWeek": 2192,
-    "timeMonth": 3173,
-    "timeYear": 2993,
+    "time": 2990,
+    "timeDay": 1468,
+    "timeWeek": 2148,
+    "timeMonth": 3169,
+    "timeYear": 2990,
     "dailyMinutesDown": {
       "2025-07-07": 78,
       "2025-06-23": 45,
@@ -194,8 +191,7 @@
       "2024-08-19": 94,
       "2024-07-22": 406,
       "2024-07-18": 26,
-      "2024-07-10": 75,
-      "2024-07-09": 25
+      "2024-07-10": 75
     }
   },
   {
@@ -215,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-08": 109,
+      "2025-07-09": 110,
+      "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
