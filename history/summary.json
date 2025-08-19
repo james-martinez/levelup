@@ -11,10 +11,10 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.67%",
     "time": 1755,
-    "timeDay": 648,
-    "timeWeek": 1047,
-    "timeMonth": 1073,
-    "timeYear": 1797,
+    "timeDay": 1471,
+    "timeWeek": 1127,
+    "timeMonth": 1097,
+    "timeYear": 1791,
     "dailyMinutesDown": {
       "2025-07-20": 187,
       "2025-07-15": 78,
@@ -38,8 +38,7 @@
       "2025-02-18": 5,
       "2024-12-20": 124,
       "2024-12-09": 22,
-      "2024-12-04": 32,
-      "2024-08-19": 46
+      "2024-12-04": 32
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.86%",
-    "time": 956,
-    "timeDay": 544,
-    "timeWeek": 1267,
-    "timeMonth": 851,
+    "time": 957,
+    "timeDay": 1635,
+    "timeWeek": 1384,
+    "timeMonth": 888,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2025-07-20": 185,
@@ -68,8 +67,7 @@
       "2025-05-09": 18,
       "2025-03-15": 86,
       "2024-12-20": 134,
-      "2024-12-11": 21,
-      "2024-08-19": 17
+      "2024-12-11": 21
     }
   },
   {
@@ -78,16 +76,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.levelup.cce.af.mil.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "90.97%",
+    "uptime": "90.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.00%",
-    "time": 2324,
-    "timeDay": 408,
-    "timeWeek": 1002,
-    "timeMonth": 818,
-    "timeYear": 2256,
+    "time": 2322,
+    "timeDay": 1429,
+    "timeWeek": 967,
+    "timeMonth": 835,
+    "timeYear": 2240,
     "dailyMinutesDown": {
       "2025-05-15": 1279,
       "2025-05-14": 1440,
@@ -132,8 +130,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-10-27": 24,
-      "2024-08-19": 82
+      "2024-10-27": 24
     }
   },
   {
@@ -147,10 +144,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.06%",
     "uptimeYear": "98.55%",
-    "time": 2978,
-    "timeDay": 956,
-    "timeWeek": 1657,
-    "timeMonth": 2924,
+    "time": 2979,
+    "timeDay": 3773,
+    "timeWeek": 2067,
+    "timeMonth": 2973,
     "timeYear": 3122,
     "dailyMinutesDown": {
       "2025-07-31": 21,
@@ -193,8 +190,7 @@
       "2024-11-06": 23,
       "2024-10-27": 1124,
       "2024-10-26": 1222,
-      "2024-10-09": 18,
-      "2024-08-19": 94
+      "2024-10-09": 18
     }
   },
   {
@@ -214,7 +210,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 116,
+      "2025-08-19": 104,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
