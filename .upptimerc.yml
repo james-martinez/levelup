@@ -12,6 +12,9 @@ sites:
   - name: Jira
     url: https://jira.levelup.cce.af.mil
     __dangerous__insecure: true
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Confluence
     url: https://confluence.levelup.cce.af.mil
     __dangerous__insecure: true
