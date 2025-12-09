@@ -336,19 +336,19 @@
     "url": "https://genai.mil/",
     "icon": "https://icons.duckduckgo.com/ip3/genai.mil.ico",
     "slug": "genai",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 348,
-    "timeDay": 348,
-    "timeWeek": 348,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "status": "up",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 383,
+    "timeDay": 383,
+    "timeWeek": 383,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {
-      "2025-12-09": 209
+      "2025-12-09": 211
     }
   }
 ]
