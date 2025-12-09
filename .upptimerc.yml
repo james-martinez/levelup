@@ -27,6 +27,8 @@ sites:
   - name: genai
     url: https://genai.mil/
     __dangerous__insecure: true
+    expectedStatusCodes:
+      - 200    
 
 
 status-website:
