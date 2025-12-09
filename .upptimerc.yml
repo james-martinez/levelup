@@ -24,6 +24,10 @@ sites:
   - name: NIPRGPT
     url: https://chat.niprgpt.mil/
     __dangerous__insecure: true
+  - name: genai
+    url: https://genai.mil/
+    __dangerous__insecure: true
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
