@@ -1,7 +1,7 @@
 url: https://jira.levelup.cce.af.mil
-status: up
-code: 401
-responseTime: 1047
-lastUpdated: 2026-01-06T22:41:04.751Z
+status: down
+code: 503
+responseTime: 524
+lastUpdated: 2026-01-06T23:09:38.465Z
 startTime: 2024-07-09T20:42:04.494Z
 generator: Upptime <https://github.com/upptime/upptime>
