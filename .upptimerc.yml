@@ -21,9 +21,6 @@ sites:
   - name: Keycloak
     url: https://keycloak.levelup.cce.af.mil/auth/realms/prod
     __dangerous__insecure: true
-  - name: NIPRGPT
-    url: https://chat.niprgpt.mil/
-    __dangerous__insecure: true
   - name: genai
     url: https://genai.mil/
     __dangerous__insecure: true
