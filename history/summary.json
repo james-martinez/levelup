@@ -50,17 +50,17 @@
     "url": "https://jira.levelup.cce.af.mil",
     "icon": "https://icons.duckduckgo.com/ip3/jira.levelup.cce.af.mil.ico",
     "slug": "jira",
-    "status": "up",
+    "status": "down",
     "uptime": "92.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.16%",
-    "time": 944,
-    "timeDay": 865,
-    "timeWeek": 1042,
-    "timeMonth": 931,
-    "timeYear": 964,
+    "time": 942,
+    "timeDay": 558,
+    "timeWeek": 943,
+    "timeMonth": 910,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2025-10-29": 387,
       "2025-10-28": 1440,
@@ -86,7 +86,8 @@
       "2025-10-08": 1440,
       "2025-10-07": 26,
       "2025-12-02": 17,
-      "2026-01-06": 23
+      "2026-01-06": 23,
+      "2026-09-16": 0
     }
   },
   {
@@ -126,7 +127,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.56%",
     "time": 192,
     "timeDay": 131,
     "timeWeek": 180,
