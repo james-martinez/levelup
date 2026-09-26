@@ -1,7 +1,7 @@
 url: https://keycloak.levelup.cce.af.mil/auth/realms/prod
 status: up
 code: 200
-responseTime: 256
-lastUpdated: 2026-09-25T01:12:25.060Z
+responseTime: 196
+lastUpdated: 2026-09-26T01:14:46.145Z
 startTime: 2025-07-02T02:05:45.217Z
 generator: Upptime <https://github.com/upptime/upptime>
